@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/7e39e9d5R4prbt58WR/giphy.gif" width=800 height=200></p>
 <h1 align="center">Hi 👋, I'm Reinhardt</h1>
-<h3 align="center">A passionate Software and Game Developer from South Africa</h3> 
+<h3 align="center">A passionate Software and Game Developer from South Africa</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spottie97&label=Profile%20views&color=0e75b6&style=flat" alt="spottie97" /> </p>
@@ -11,11 +11,13 @@
 
 - 🌱 I’m currently learning **Unity C# and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://jellyfish-app-lc5qw.ondigitalocean.app/](https://jellyfish-app-lc5qw.ondigitalocean.app/)
+- 👨‍💻 All of my projects are available at [https://jellyfish-app-lc5qw.ondigitalocean.app/](https://jellyfish-app-lc5qw.ondigitalocean.app/) 
 
 - 💬 Ask me about **Unity C# and C++**
 
 - 📫 How to reach me **reinhardterasmus@gmail.com**
+![snake](https://user-images.githubusercontent.com/65610257/197248641-f0b43869-9c25-497e-903f-ff8c573e2f39.svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
