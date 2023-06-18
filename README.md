@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/ttvspottie" target="blank"><img src="https://img.shields.io/twitter/follow/ttvspottie?logo=twitter&style=for-the-badge" alt="ttvspottie" /></a> </p>
 
-- 🌱 I’m currently learning **Unity C# and Javascript**
+- 🌱 I’m currently learning **UE5 and React Native**
 
 - 👨‍💻 All of my projects are available at [https://jellyfish-app-lc5qw.ondigitalocean.app/](https://jellyfish-app-lc5qw.ondigitalocean.app/) 
 
-- 💬 Ask me about **Unity C# and C++**
+- 💬 Ask me about **C# and API development**
 
 - 📫 How to reach me **reinhardterasmus@gmail.com**
 ![snake](https://user-images.githubusercontent.com/65610257/197248641-f0b43869-9c25-497e-903f-ff8c573e2f39.svg)
