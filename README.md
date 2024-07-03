@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ttvspottie" target="blank"><img src="https://img.shields.io/twitter/follow/ttvspottie?logo=twitter&style=for-the-badge" alt="ttvspottie" /></a> </p>
 
-- 🌱 I’m currently learning **UE5 and React Native**
+- 🌱 I’m currently learning **AWS Cloud Computing and React**
 
 - 👨‍💻 All of my projects are available at [https://jellyfish-app-lc5qw.ondigitalocean.app/](https://jellyfish-app-lc5qw.ondigitalocean.app/) 
 
