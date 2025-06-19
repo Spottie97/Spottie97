@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/ttvspottie" target="blank"><img src="https://img.shields.io/twitter/follow/ttvspottie?logo=twitter&style=for-the-badge" alt="ttvspottie" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Cloud Computing and React**
+- 🌱 I’m currently learning **Next.js and Superbase**
 
-- 👨‍💻 All of my projects are available at [https://jellyfish-app-lc5qw.ondigitalocean.app/](https://jellyfish-app-lc5qw.ondigitalocean.app/) 
+- 👨‍💻 All of my projects are available at [here](https://jellyfish-app-lc5qw.ondigitalocean.app/) 
 
-- 💬 Ask me about **C# and API development**
+- 💬 Ask me about **React, MongoDB and AI agent development**
 
 - 📫 How to reach me **reinhardterasmus@gmail.com**
 ![snake](https://user-images.githubusercontent.com/65610257/197248641-f0b43869-9c25-497e-903f-ff8c573e2f39.svg)
