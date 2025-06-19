@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js and Superbase**
 
-- 👨‍💻 All of my projects are available at [here](https://jellyfish-app-lc5qw.ondigitalocean.app/) 
+- 👨‍💻 All of my projects are available [here](https://jellyfish-app-lc5qw.ondigitalocean.app/) 
 
 - 💬 Ask me about **React, MongoDB and AI agent development**
 
