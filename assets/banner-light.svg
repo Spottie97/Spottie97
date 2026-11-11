@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Reinhardt Erasmus</title>
+  <desc id="desc">Full-stack developer and Head of Operations. Business software, AI tooling, and games.</desc>
+  <rect width="1280" height="300" rx="20" fill="#F6F4FB"/>
+  <rect x="0.5" y="0.5" width="1279" height="299" rx="20" fill="none" stroke="#E4DFF0"/>
+  <g fill="none" stroke="#6D28D9" stroke-linecap="round">
+    <path d="M760 64C920 28 1040 110 1120 58" stroke-width="1.4" stroke-opacity="0.2"/>
+    <path d="M720 124C900 78 1040 168 1148 118" stroke-width="1.4" stroke-opacity="0.15"/>
+    <path d="M800 196C960 160 1080 236 1188 198" stroke-width="1.4" stroke-opacity="0.18"/>
+    <path d="M860 246C1000 220 1100 268 1208 246" stroke-width="1.4" stroke-opacity="0.12"/>
+  </g>
+  <circle cx="1168" cy="150" r="52" fill="#F6F4FB" stroke="#6D28D9" stroke-width="1.4"/>
+  <text x="1168" y="157" text-anchor="middle" fill="#6D28D9" font-family="'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="1.5">RE</text>
+  <rect x="48" y="42" width="5" height="216" rx="2.5" fill="#6D28D9"/>
+  <text x="76" y="108" fill="#6D28D9" font-family="'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.4">SOUTH AFRICA</text>
+  <text x="76" y="166" fill="#1C1430" font-family="'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="600">Reinhardt Erasmus</text>
+  <text x="76" y="208" fill="#5C5470" font-family="'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Full-stack developer and Head of Operations</text>
+  <text x="76" y="250" fill="#6D28D9" font-family="'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">Business software    &#183;    AI tooling    &#183;    Games</text>
+</svg>
